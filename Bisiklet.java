@@ -10,6 +10,7 @@ public class Bisiklet {
 		
 		System.out.println("bugün ikinci günüm cok heyecanliyim");
 		System.out.println("acaba patron yaptiklarimizi begenecek mi");
+		System.out.println("ya cok iyi ama bir de buna bak");
 		
 		
 		
